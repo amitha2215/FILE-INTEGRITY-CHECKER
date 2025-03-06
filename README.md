@@ -47,4 +47,9 @@ Troubleshooting
 Developed by GUDISE AMITHA 
 
 
+OUPUT 
+
+
+![Image](https://github.com/user-attachments/assets/97a3b700-8e79-4934-8707-2fc0d939edc2)
+
 
